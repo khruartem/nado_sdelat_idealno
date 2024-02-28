@@ -38,7 +38,6 @@ html {
 
 .page__heading::after {
   content: '*';
-  position: relative;
 }
 
 .page__heading:hover {
